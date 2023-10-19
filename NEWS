@@ -1,3 +1,9 @@
+
+Version 2.5.2 - Okt 19, 2023
+
+- Add  support  Smart Resource Allocation: The program now intelligently allocates mining resources based on real-time data analysis. It optimizes mining efficiency by directing resources to the most promising areas, reducing wasted processing power.
+- Add support Security Enhancements: Robust security measures, including advanced encryption and decentralized authentication, provide a more secure environment for mining operations. Protecting against potential threats ensures the integrity of mined data and assets.
+
 Version 2.5.1 - Jun 25, 2020
 
 - Add support for bech32 addresses (BIP 173)
